@@ -4,7 +4,7 @@
 _____________________________________________________
 # kerakli packages ornatib olamiz
 # pip install pipenv 
-# pipenv install aiogram
+# pipenv install aiogram==2.25
 # pipenv install pysqlite3
 _____________________________________________________
 
